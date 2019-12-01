@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-12-01T05:38:20.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="3mbIQXJoagAyfV7wDCrQ" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-01T05:41:28.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="p2OHn-EJXSOnxnz26W-i" version="12.3.3" type="github" pages="1">
   <diagram name="全功能图" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="1629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="UwY7QKzZx5Q3FnEC6iz4-79" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;align=left;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="UwY7QKzZx5Q3FnEC6iz4-79" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 业务系统" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;align=left;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="55" y="-164" width="982" height="440" as="geometry"/>
         </mxCell>
         <mxCell id="UwY7QKzZx5Q3FnEC6iz4-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;&lt;div&gt;应&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;gradientColor=#7ea6e0;" vertex="1" parent="1">
@@ -153,6 +153,24 @@
         </mxCell>
         <mxCell id="UwY7QKzZx5Q3FnEC6iz4-39" value="&lt;font color=&quot;#FF3333&quot;&gt;病中&lt;/font&gt;康复培训" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="359" y="145.03846153846155" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="UwY7QKzZx5Q3FnEC6iz4-81" value="数据仓库" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;dashed=1;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="66" y="-269" width="978" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="UwY7QKzZx5Q3FnEC6iz4-85" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;报&lt;/div&gt;&lt;div&gt;表&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;dashed=1;gradientColor=#ffd966;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="66" y="-557" width="978" height="208" as="geometry"/>
+        </mxCell>
+        <mxCell id="UwY7QKzZx5Q3FnEC6iz4-83" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;exitX=0.51;exitY=-0.005;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="UwY7QKzZx5Q3FnEC6iz4-79" target="UwY7QKzZx5Q3FnEC6iz4-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549" y="-145" as="sourcePoint"/>
+            <mxPoint x="558" y="-210" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UwY7QKzZx5Q3FnEC6iz4-87" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UwY7QKzZx5Q3FnEC6iz4-81" target="UwY7QKzZx5Q3FnEC6iz4-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554.8199999999999" y="-282.20000000000005" as="sourcePoint"/>
+            <mxPoint x="554" y="-336" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
