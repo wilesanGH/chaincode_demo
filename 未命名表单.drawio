@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-01T09:04:41.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="Yyu2K2IUkBZVvPbwcrGC" version="12.3.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-01T09:05:28.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="SPLVZaxkrmUeaPEHdyks" version="12.3.3" type="github" pages="2">
   <diagram name="全功能图" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="1629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -240,8 +240,8 @@
         <mxCell id="jiVOPhi9FSHdURduqSkM-16" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;病&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;verticalAlign=top;align=left;" parent="u3k8pZjZARtPeUvrM_Sd-1" vertex="1">
           <mxGeometry x="582" y="83" width="415" height="160" as="geometry"/>
         </mxCell>
-        <mxCell id="jiVOPhi9FSHdURduqSkM-17" value="&lt;div&gt;应&lt;/div&gt;&lt;div&gt;急&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;verticalAlign=top;align=left;" parent="u3k8pZjZARtPeUvrM_Sd-1" vertex="1">
-          <mxGeometry x="582" y="-81" width="415" height="106" as="geometry"/>
+        <mxCell id="jiVOPhi9FSHdURduqSkM-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;应&lt;/div&gt;&lt;div&gt;急&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;verticalAlign=top;align=left;" parent="u3k8pZjZARtPeUvrM_Sd-1" vertex="1">
+          <mxGeometry x="582" y="-120" width="415" height="145" as="geometry"/>
         </mxCell>
         <mxCell id="jiVOPhi9FSHdURduqSkM-18" value="" style="group;verticalAlign=bottom;align=left;" parent="u3k8pZjZARtPeUvrM_Sd-1" vertex="1" connectable="0">
           <mxGeometry x="124" y="137" width="342" height="113" as="geometry"/>
@@ -331,19 +331,19 @@
           <mxGeometry x="274.5" y="98" width="36" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="G0se2aN_VIp7TE1-dEi0-0" value="智能调度" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="u3k8pZjZARtPeUvrM_Sd-1">
-          <mxGeometry x="830" y="-20.019230769230774" width="130" height="40" as="geometry"/>
+          <mxGeometry x="828" y="-38.019230769230774" width="130" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="G0se2aN_VIp7TE1-dEi0-1" value="实时路线规划" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="u3k8pZjZARtPeUvrM_Sd-1">
-          <mxGeometry x="643" y="-19.5" width="180" height="40" as="geometry"/>
+          <mxGeometry x="641" y="-37.5" width="180" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="G0se2aN_VIp7TE1-dEi0-2" value="危险评估" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="u3k8pZjZARtPeUvrM_Sd-1">
-          <mxGeometry x="640" y="-69.01923076923077" width="130" height="40" as="geometry"/>
+          <mxGeometry x="638" y="-87.01923076923077" width="130" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="G0se2aN_VIp7TE1-dEi0-3" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;align=left;direction=south;" vertex="1" parent="u3k8pZjZARtPeUvrM_Sd-1">
           <mxGeometry x="762" y="30" width="36" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="G0se2aN_VIp7TE1-dEi0-4" value="制定紧急处理方案" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="u3k8pZjZARtPeUvrM_Sd-1">
-          <mxGeometry x="780" y="-68" width="180" height="40" as="geometry"/>
+          <mxGeometry x="778" y="-86" width="180" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
