@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-01T05:18:34.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="v5otubPwGkPOgbCebYZo" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-01T05:20:54.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="amvEHGmEEl-ESQe5c3Yq" version="12.3.3" type="github" pages="1">
   <diagram name="全功能图" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="1629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -80,10 +80,10 @@
           <mxGeometry x="94" y="73" width="24" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="UwY7QKzZx5Q3FnEC6iz4-25" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="582" y="83" width="415" height="163" as="geometry"/>
+          <mxGeometry x="582" y="83" width="415" height="160" as="geometry"/>
         </mxCell>
         <mxCell id="UwY7QKzZx5Q3FnEC6iz4-27" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="620.5" y="-123.5" width="230" height="185" as="geometry"/>
+          <mxGeometry x="582" y="-117" width="415" height="160" as="geometry"/>
         </mxCell>
         <mxCell id="UwY7QKzZx5Q3FnEC6iz4-37" value="" style="group;verticalAlign=bottom;align=left;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="139" y="135" width="243" height="113" as="geometry"/>
@@ -129,6 +129,12 @@
         </mxCell>
         <mxCell id="UwY7QKzZx5Q3FnEC6iz4-40" value="临终关怀" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="352" y="144.98076923076923" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="UwY7QKzZx5Q3FnEC6iz4-55" value="病人服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="602" y="154.5" width="24" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UwY7QKzZx5Q3FnEC6iz4-56" value="应急服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="602" y="-47" width="24" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
